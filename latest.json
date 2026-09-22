@@ -1,0 +1,13 @@
+{
+  "version": "main-19",
+  "commit": "32ab4e906594d1afb5f1ad10eadadd9bdab88f59",
+  "target": "x86_64-pc-windows-msvc",
+  "assets": {
+    "scry-lsp-layer-x86_64-pc-windows-msvc.exe": {
+      "sha256": "2214c7af5df7ce31dfab91e5e4030790fccf32233fdaffab040082a32cfb938c"
+    },
+    "scry-x86_64-pc-windows-msvc.exe": {
+      "sha256": "55d13058c8b2356f356193ed0adc7bf4596b23881a825bdf6b2b6f0f30927c67"
+    }
+  }
+}
