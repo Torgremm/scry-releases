@@ -1,10 +1,10 @@
 {
-  "version": "main-115",
-  "commit": "98b60730db5938f4f42395a428f70f8f4a89abc2",
+  "version": "main-118",
+  "commit": "eb21d395d0186676e0ed2e97f2cc835e5d29889a",
   "target": "x86_64-pc-windows-msvc",
   "assets": {
     "scry-x86_64-pc-windows-msvc.exe": {
-      "sha256": "14b2a2bd2ef7854c572bc7476434ed85f204d440d53d25bf80c808fb621033e8"
+      "sha256": "4f269d0a03b5cac1ecb8d2ed90ffb2033df9032b095f9d1f77cf146513e6b3c5"
     }
   }
 }
