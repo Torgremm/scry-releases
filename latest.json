@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "main-20",
-  "commit": "fca644e3ec9f6f8b4e4dcf4a6bc9c4668f7328ff",
+  "version": "main-23",
+  "commit": "9087c8cd9a2f2c9aa1050f874459ebfb3ee56a48",
   "channel": "main",
   "targets": [
     "x86_64-pc-windows-msvc",
@@ -18,7 +18,7 @@
       "arch": "aarch64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "43d0faf63f569d7fa067435ed51c0697c2f9992a1c4dc5c3781c61d35b274848"
+      "sha256": "7256182df33b76ec0e441cc60f65e0333a8c3a5f013acab3947b1b8f3f3c8293"
     },
     "scry-aarch64-pc-windows-msvc.exe": {
       "target": "aarch64-pc-windows-msvc",
@@ -26,7 +26,7 @@
       "arch": "aarch64",
       "abi": "msvc",
       "requirements": "Windows 11 on ARM64",
-      "sha256": "c7c0b80ff9747350d4620ee9f1b0682755a18f9940252c6ee231a5fdd187ca52"
+      "sha256": "45fcf4def2a45d36f3fbd0813eab4cd7664ac6b86e71d1f1f3031779fa7a9619"
     },
     "scry-aarch64-unknown-linux-gnu": {
       "target": "aarch64-unknown-linux-gnu",
@@ -34,7 +34,7 @@
       "arch": "aarch64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "981496cd77cf00e66dacb52c6a255c80a85050760b147eb74a05beb925fd23cd"
+      "sha256": "90e6a7202b02ae8a66847acb7b404997d81a99e952280ff631c0c04a9338c506"
     },
     "scry-x86_64-apple-darwin": {
       "target": "x86_64-apple-darwin",
@@ -42,7 +42,7 @@
       "arch": "x86_64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "a43d705c87c6d84a9a97ce10d31dac253de2765a866ead0c9c95788ac6386624"
+      "sha256": "dcfb3760ebb74d9e98c43104f3316169aeeaad15b212f687876d4bf0300eab42"
     },
     "scry-x86_64-pc-windows-msvc.exe": {
       "target": "x86_64-pc-windows-msvc",
@@ -50,7 +50,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "c74a57d8ff82e034f4244763b5bcb7a66f6e32f6e557d0a78f0ea66efc8f53bd"
+      "sha256": "59ab1d37a8c8cecb4b708ec21d32bbdf5febf2d3fc500068f73a46cb3c547ea8"
     },
     "scry-x86_64-unknown-linux-gnu": {
       "target": "x86_64-unknown-linux-gnu",
@@ -58,7 +58,7 @@
       "arch": "x86_64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "07008ccdf4bd6f218c9e284d6edbf07bdcbf27279e2deed17ceecb2dda66d94b"
+      "sha256": "6c8702521ca11f749d300933956efe4aa56693c7b5257540d26a39e02e86f1f2"
     }
   },
   "archives": {
@@ -68,7 +68,7 @@
       "arch": "aarch64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "99a9a969eb73ed2880785c4ae6a553d85dadd6aa33a62d12d430c4f47343ca79"
+      "sha256": "1560b718cee48ad81843031f63ad1bbcdcf6bce464864337a097b925017d9806"
     },
     "scry-aarch64-pc-windows-msvc.zip": {
       "target": "aarch64-pc-windows-msvc",
@@ -76,7 +76,7 @@
       "arch": "aarch64",
       "abi": "msvc",
       "requirements": "Windows 11 on ARM64",
-      "sha256": "04813aa27e6f502332c1bf6c28803f96cf7bcf6991ba3531250efc6a5f6f27f1"
+      "sha256": "27e521704b9abc94017c4fd0293f189578294eb88bfbb42246044372b0718883"
     },
     "scry-aarch64-unknown-linux-gnu.tar.gz": {
       "target": "aarch64-unknown-linux-gnu",
@@ -84,7 +84,7 @@
       "arch": "aarch64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "8526ae6ebc29a11956317b8493d09b0a137a42fec5ca9fca7a05a7d588b0c12a"
+      "sha256": "6ea9393b6d4cd1a53f1b4296df2d3810a1adc11eed0ed760591eb90f1eee4a51"
     },
     "scry-x86_64-apple-darwin.tar.gz": {
       "target": "x86_64-apple-darwin",
@@ -92,7 +92,7 @@
       "arch": "x86_64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "2b9144f2f0fe001ce2c887ca97587f368bf3b826876138b27add25553cf23eb9"
+      "sha256": "eea0e68f67f5bf8094d3daa20bcfea32b63fb8a61a02bf43bdca373e00d7a47c"
     },
     "scry-x86_64-pc-windows-msvc.zip": {
       "target": "x86_64-pc-windows-msvc",
@@ -100,7 +100,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "7d3eeb74b4f011666c5158e9d011cccd71957fc4642503b10e8ec637e72fcaad"
+      "sha256": "052140b2ad18302110b9acf6e6407f32be3e335df5ca0d35371a4371108b488a"
     },
     "scry-x86_64-unknown-linux-gnu.tar.gz": {
       "target": "x86_64-unknown-linux-gnu",
@@ -108,7 +108,7 @@
       "arch": "x86_64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "d7d2468e93316fcd5480c592bf97b6fc865f2ac07dda9385b4e402e81210d247"
+      "sha256": "0bfb2c7a0c993ec5436f72e983f147fb8f82c19694fb69a1b87180f2f306b714"
     }
   }
 }
