@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "main-38",
-  "commit": "7ff3540bca34cb595e4f69aeaf3ca38593f1b6da",
+  "version": "main-40",
+  "commit": "b885203c9273fdb3be186d306a7e5176e8363790",
   "channel": "main",
   "targets": [
     "x86_64-pc-windows-msvc",
@@ -26,7 +26,7 @@
       "arch": "aarch64",
       "abi": "msvc",
       "requirements": "Windows 11 on ARM64",
-      "sha256": "9bb9e6f760dca21c4f68d7ccbac8e4a076bc86e19c514bc1a2ba9d9b390280c5"
+      "sha256": "b27d9f9879da714764022e68c3c195c5d877497bcc46d19b8ccde5e4edc6c6a1"
     },
     "scry-aarch64-unknown-linux-gnu": {
       "target": "aarch64-unknown-linux-gnu",
@@ -50,7 +50,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "f27f9a824436aaa708d663501e6439a1b62f475f047febc0152672142bc51fb5"
+      "sha256": "c5fbe75d9205f6776cd545ca42c5f4bce341c131fcb91fd14be4d0e4f705cebf"
     },
     "scry-x86_64-unknown-linux-gnu": {
       "target": "x86_64-unknown-linux-gnu",
@@ -68,7 +68,7 @@
       "arch": "aarch64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "eb9f246b9bf62c34ea4de2d33a366b201d0ae93b93d9b3b48f799f3205c7b5e7"
+      "sha256": "976fd2368857dd33b727a5dc90d39ca82db78be973e1e8752046acca11cc419d"
     },
     "scry-aarch64-pc-windows-msvc.zip": {
       "target": "aarch64-pc-windows-msvc",
@@ -76,7 +76,7 @@
       "arch": "aarch64",
       "abi": "msvc",
       "requirements": "Windows 11 on ARM64",
-      "sha256": "e79a329a36447085b000c5fe5870de9a37d450dd96537a4574c3d8bab4292f76"
+      "sha256": "13abf164cad8f7f4eab8fdbabfd8efd6b06771e6ccb97224261adad12665b6f5"
     },
     "scry-aarch64-unknown-linux-gnu.tar.gz": {
       "target": "aarch64-unknown-linux-gnu",
@@ -84,7 +84,7 @@
       "arch": "aarch64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "91f5df63b87f273f0c0b01e9735117a431bd711a8d2eea7d4c457e40bf7e185c"
+      "sha256": "6c1336281b32a1b16c0e33919b945a5a2bae47ffaaa2975f7e9f745bc4a2b2c9"
     },
     "scry-x86_64-apple-darwin.tar.gz": {
       "target": "x86_64-apple-darwin",
@@ -92,7 +92,7 @@
       "arch": "x86_64",
       "abi": "",
       "requirements": "macOS 11 or newer",
-      "sha256": "717e885497e86cf738a7d3a9552953c00e89385108dba64048afac838314bb3a"
+      "sha256": "8dbfe9f4b03afff8caa987f70e6fb7deb333bd4f21a326ce287807bde62358c4"
     },
     "scry-x86_64-pc-windows-msvc.zip": {
       "target": "x86_64-pc-windows-msvc",
@@ -100,7 +100,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "1bbadd07c6d59b5f468c0a5e6798497b33af0ad18aacf729d999cdc80ab8b2f1"
+      "sha256": "8aad9bb34ac183fb356a3c8ed204cb2da4d0a0731907d07c18d1509b5c523654"
     },
     "scry-x86_64-unknown-linux-gnu.tar.gz": {
       "target": "x86_64-unknown-linux-gnu",
@@ -108,7 +108,7 @@
       "arch": "x86_64",
       "abi": "gnu",
       "requirements": "glibc 2.35 or newer and OpenSSL 3 (Ubuntu 22.04 or newer)",
-      "sha256": "bd5d838e5a843b5e63a5ed75777c79f66ad482151204a20b609340d45f3df688"
+      "sha256": "99c4f1bee9cfc4ac2be8d86219c856c4e2e5d11df54d27146a5f7aefbb370aeb"
     }
   }
 }
