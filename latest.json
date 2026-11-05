@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "main-52",
-  "commit": "8f70b3968e10377be9eb2df118f0dbbd089b1c4b",
+  "version": "main-56",
+  "commit": "41bdf281f10aeadd3d06a6c4c86c5e9d0265a2d6",
   "channel": "main",
   "targets": [
     "x86_64-pc-windows-msvc"
@@ -13,7 +13,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "b2e1b302c566f3ac1214286a1ec57f4cd5701e0b36217358e08a7ca2fa5d98cb"
+      "sha256": "a98c813ffb4017f9a983b673803da5774023115e4ebc8c2103f5a55425aa6bae"
     }
   },
   "archives": {
@@ -23,7 +23,7 @@
       "arch": "x86_64",
       "abi": "msvc",
       "requirements": "Windows 10 or newer",
-      "sha256": "6d0ea098eedb4914ead9fa2d05f417ff52696a8c89e26c872e7b134fa1e36735"
+      "sha256": "cbe80e3c7cea20dc9bd83ccfdcb7828035c8e9b29a01d34d2dda78a8da30467d"
     }
   }
 }
